@@ -1,0 +1,70 @@
+body{
+    background-color: black;
+}
+.header{
+    max-width: 100%;
+    position: relative;
+    padding: 45px;
+}
+.logo{
+    width: 374px;
+    height: 54px;
+    background-image: url(../img/logo.png)
+}
+.menu-item{
+    color: white;
+    font-size:20px ;
+    font: Tahoma;
+    display: inline-block;
+    margin: 0 0 0 40px;
+}
+.menu{
+    position: absolute;
+    right: 45px;
+    top: 45px;
+    
+}
+.movie{
+    width: 365px;
+    border-radius: 30px;
+    margin: 50px;
+    transition: all 0.3s;
+    display: inline-block;
+}
+.movie:hover
+{
+    box-shadow: 0px 0px 80px #727272;
+    transform: scale(1.08);
+    
+}
+
+.movie-pick{
+    height:550px;
+   
+    background-size: cover;
+    background-position: center;
+    border-radius: 30px 30px 0 0;
+}
+.img1{
+    
+}
+.img2{
+    
+}
+.movie-info{
+    background-color: #929292;
+    border-radius: 0px 0px 30px 30px;
+    text-align: center;
+    font-family: Tahoma;
+    padding: 15px 0 15px 0;
+}
+.movie-text{
+font-size: 28px;
+color: #f2f2f2;
+}
+.movie-data{
+font-size: 16px;
+color: #d2d2d2;
+font-family: Tahoma;
+    padding: 5px 0 5px 0;
+}

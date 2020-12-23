@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    font-family: Tacoma;
+    color: white;
+
+}
+
+.a{
+    background-color: black;
+    width: 1280px;
+    text-align: left;
+    padding: 20px 40px 50px 50px;
+    margin: 50px 0 50px 0;
+    border-radius: 30px;
+    font-size: 50px;
+}
+
+.a1{
+    background-color: #383838;
+    width: 1280px;
+    text-align: left;
+    padding: 20px 40px 50px 50px;
+    margin: 50px 0px 50px 0px;
+    border-radius: 30px;
+    font-size: 20px;
+
+}
+
+.text{
+    font-size: 35px;
+    line-height: 0.5;
+    margin: 100px 0 0 0;
+}
+
+.text2{
+    text-align: center;
+    font-size: 40px;
+    line-height: 0.5;
+}
+
+.text1{
+    line-height: 2;
+    font-size: 30px;
+    width: 1280px;
+    text-align: left;
+}
+
+.oscar{
+    height: 250px;
+}
+
+.img1{
+    background-image: url(img/back-img-01.jpg);
+    background-size: cover;
+    height: 700px;
+    margin: -20px -40px -50px -50px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+a{
+    color: white;
+}
+
+h1{
+    margin: -200px 0 0 0;
+}
